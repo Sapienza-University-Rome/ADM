@@ -3,7 +3,7 @@
 In this section you find the instruction to submit your group assignment.
 
 ## When?
-Homework 1 is due on [TO DEFINE](http://aris.me/index.php/data-mining-ds-2020). Any homework submitted after the deadline will be subjected to a penalisation with the following schema:
+Homework 1 is due on [October 10th](http://aris.me/index.php/data-mining-ds-2020). Any homework submitted after the deadline will be subjected to a penalisation with the following schema:
 
 |   Delay  | Penalisation |
 |:--------:|:------------:|
@@ -19,14 +19,14 @@ If you have particular problems to respect the deadline, please contact Aris dir
 The maximum score you can get is 5.
 
 ## Where?
-1. Each student must create a GitHub repository: follow these [steps](https://github.com/lucamaiano/ADM-HW4/blob/master/README.md) (replace ADM-HW4 with the name you give to the repository).
+1. Each student must create a GitHub repository: follow these [steps](https://github.com/CriMenghini/ADM-HW4/blob/master/README.md) (replace ADM-HW4 with the name you give to the repository).
 
 2. Before the deadline you can push in the repository whatever you want. Any push after the deadline will be taken into account for the penalisation.
 
 __Note__ :
 
 * The state of the repository at deadline time corresponds to your submission.
-* __[IMPORTANT]__ be sure to compile this [TO DEFINE](#).
+* __[IMPORTANT]__ be sure to compile this [form](#).
 
 ## What?
 
