@@ -5,12 +5,12 @@ According to the organization of the course, we suggest asking questions on Slac
 # FAQ
 
 ## Groups
-**[Q]**One of our groupmates is not showing up, what should I do?
+**[Q]** One of our groupmates is not showing up, what should I do?
 
 **[A]** Contact Luca and Aris by e-mail reporting the problem. Remember to insert [ADM 2021] in the subject of the email, otherwise, it could be ignored.
 
 
-**[Q]**I’m the only one left in the group. None replies to my messages, what should I do?
+**[Q]** I’m the only one left in the group. None replies to my messages, what should I do?
 
 **[A]** Contact Luca and Aris by e-mail reporting the problem. Remember to insert [ADM 2021] in the subject of the email, otherwise, it could be ignored.
 
