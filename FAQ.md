@@ -36,10 +36,6 @@ According to the organization of the course, we suggest asking questions on Slac
 **[A]** This review is meant to let you learn from others and learn to be critical of what you and others do. We don’t rate your homework based on student feedback, but we rate your homework by taking into account the quality of your feedback.
 
 
-**[Q]**What do I evaluate in the peer review?
-
-**[A]** 
-
 ## Individual form
 **[Q]** Is this module anonymized?
 
