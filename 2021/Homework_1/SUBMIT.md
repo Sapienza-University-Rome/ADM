@@ -13,7 +13,7 @@ Homework 1 is due on [October 10th](http://aris.me/index.php/data-mining-ds-2021
 | 4 days |      -3      |
 | 5 days |      -4      |
 
-If you have particular problems to respect the deadline, please contact Aris directly (putting @Cristina in cc) and explain your situation clearly mention your working group.
+If you have particular problems to respect the deadline, please contact Aris directly (putting @Luca in cc) and explain your situation clearly mention your working group.
 
 
 The maximum score you can get is 5.
