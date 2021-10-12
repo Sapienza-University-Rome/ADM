@@ -20,8 +20,8 @@ According to the policy presented by Aris, we encourage you to ask questions to 
 ## Office hours
 Due to the fact that some of TAs work remotely and that you will have classes at Castro Laurenziano, TAs will not have office hours. Nonetheless, we will be always available on Slack to answer any of your question and, if you are struggling and having lot of troubles with the homework, you ask on Slack to organize office hours for the entire class and this will be set up at gazebos at DIAG, via Ariosto 25. During the office hours TAs will answer your questions and will make clarifications about parts of the homework that do not sound clear to you.
 
-## Slack
-We use Slack as a communication channel to share lecture information, share helpful material, or answer student questions. You can subscribe by accessing [this link](https://join.slack.com/t/amd2021-workspace/shared_invite/zt-w6am00sx-i4lmgpJw_qehrgG_~gRG~g).
+## Register to the course
+To register for the course, participate in the assignments, access the Slack channel and receive official communications, you must fill out [this form](http://aris.me/register-adm.html).
 
 ## TAs contacts
 
