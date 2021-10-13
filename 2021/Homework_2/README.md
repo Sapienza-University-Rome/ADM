@@ -91,10 +91,10 @@ ____
 
 1. For this homework, you are required to work with all data in the **steam_reviews.csv**. An extension (two files) of the dataset is available in the next links: 
 
-      a. If you want to download them from a Google Drive use [this link](https://drive.google.com/drive/folders/1dHbQ5mIENin5w03vH-3kSGMaZSczw4n7).
+      a. File 1 to be downloaded from https://sapienza2021adm.s3.eu-south-1.amazonaws.com/steam_reviews_bonus_1.zip.
       
-      b. If you want work with them from an wget-friendly environment (Terminal, Sagemakewr) use this link: [this link]().
-    
+      b. File 2 to be downloaded from https://sapienza2021adm.s3.eu-south-1.amazonaws.com/steam_reviews_bonus_2.zip.
+          
     It is not necessary to use the extension for this homework, however, if you decide to use it, we will take it into account in the final evaluation. In summary, to get the bonus points you are required to work with [steam_reviews.csv + two files of extension] all together.
 
 
