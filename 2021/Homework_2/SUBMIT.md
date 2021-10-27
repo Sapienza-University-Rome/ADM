@@ -13,7 +13,7 @@ Homework 2 is due on [31st October 2021 - 23:59:59](http://aris.me/index.php/dat
 | 4 days |      -3      |
 | 5 days |      -4      |
 
-If you have particular problems to respect the deadline, please contact Aris directly (putting @Cristina in cc) and explain your situation clearly mention your working group.
+If you have particular problems to respect the deadline, please contact Aris directly (putting @Luca in cc) and explain your situation clearly mention your working group.
 
 
 The maximum score you can get is 5.
@@ -34,8 +34,8 @@ The content of the repository is up to you. The mandatory files are:
 
 * `README.md`: a Markdown file that explains the content of your repository. This is an [example](https://github.com/CriMenghini/Wikipedia/tree/master/Mention). It is important that for each file/folder you say what it contains. [Here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) a cheatsheet to use Markdown.
 
-* `main.ipynb`: a Jupyter notebook that contains all the answers to your research questions. The notebook must be clear, complete and tidy. [Here](https://github.com/dusicastepic/ADMSecondHomework/blob/master/ADM_HW2_Full.ipynb) an example of a nice notebook from last year.
-    - In general, for the sake of the tidiness of the Notebook, you are encouraged to save yout functions in external .py files that you [import](https://www.programiz.com/python-programming/modules) in the notebook.
+* `main.ipynb`: a Jupyter notebook that contains all the answers to your research and theoretical questions. The notebook must be clear, complete and tidy. [Here](https://github.com/dusicastepic/ADMSecondHomework/blob/master/ADM_HW2_Full.ipynb) an example of a nice notebook from previous years.
+    - In general, for the sake of the tidiness of the Notebook, you are encouraged to save your functions in external .py files that you [import](https://www.programiz.com/python-programming/modules) in the notebook.
     - Upload on GitHub the notebook with the cells already run
     - It might be possible that you do not see some plots. For this reason, we suggest you to put in the `README.md` a link that you create [here](http://nbviewer.jupyter.org/) just copying and paste the url of your notebook on GitHub.
 
