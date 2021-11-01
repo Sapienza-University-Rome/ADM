@@ -230,7 +230,7 @@ For the bonus question, you will be performing a simple sentiment analysis on th
 	- Is your sentiment analysis in line with the scores of the animes? Explain your conclusions.
 	- Any further analysis of your choice.
 
-## 5. Theoretical question
+## 5. Algorithmic question
 You consult for a personal trainer who has a *back-to-back sequence* of requests for appointments. A sequence of requests is of the form
     > 30, 40, 25, 50, 30, 20
 where each number is the time that the person who makes the appointment wants to spend.
