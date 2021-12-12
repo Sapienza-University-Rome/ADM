@@ -91,7 +91,7 @@ Consider that:
  - Two different intervals of time (disjoint or not), which will lead to two different graphs, _G\_1_ (associated to interval 1) and _G\_2_ (associated to interval 2) 
  - Two users which are unique to each interval of time (_user\_1_ only appears in interval 1, while _user\_2_ only appears in interval 2)
  
- The function should return the minimum number of links (considering their weights) required to disconnect the two graphs.
+ The function should return the minimum number of links (considering their weights) required to disconnect the two users.
 
 ## 3. Implementation of the frontend
 
