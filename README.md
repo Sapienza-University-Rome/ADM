@@ -9,9 +9,9 @@ In particular, for each assignment, you find a sub directory that contains:
 - `SUBMIT.md` which contains the deadline and the deliverables. You can also find the needed forms for the delivery!
 
 ## Take a look at
-- `EVALUATION.md`: how peer evaluation works
-- `DELIVERY.md`: submitting policy
-
+- `EVALUATION.md`: How peer evaluation works
+- `DELIVERY.md`: Submitting policy
+- `FAQ.md`: Frequently asked questions while working in groups.
 
 
 ## Collaborations
