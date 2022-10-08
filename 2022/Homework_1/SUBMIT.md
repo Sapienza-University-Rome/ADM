@@ -55,7 +55,7 @@ Alternatively, you can also produce a Jupyter Notebook, where each cell contains
 
 It __must not__ contain:
 
-* The datasets you used (thus you should clearly state in the readme what dataset you used, if any not in the homework description). That's because git allows you to push only dataset smaller of a max size. [Here](https://medium.com/@haydar_ai/learning-how-to-git-ignoring-files-and-folders-using-gitignore-177556afdbe3) a good Medium's post that tells you how to deal with files/directories you do not want to push on GitHub.
+* The datasets you used (thus you should clearly state in the readme what dataset you used, if any not in the homework description). That's because git allows you to push only dataset smaller of a max size. [Here](https://haydar-ai.medium.com/learning-how-to-git-ignoring-files-and-folders-using-gitignore-4b6a1ec43ce1) a good Medium's post that tells you how to deal with files/directories you do not want to push on GitHub.
 
 
 
