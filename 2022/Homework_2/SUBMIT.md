@@ -39,6 +39,8 @@ The content of the repository is up to you. The mandatory files are:
     - Upload on GitHub the notebook with the cells already run
     - It might be possible that you do not see some plots. For this reason, we suggest you to put in the `README.md` a link that you create [here](http://nbviewer.jupyter.org/) just copying and paste the url of your notebook on GitHub.
 
+* `CommandLine.sh`: a bash shell script file contains the prepared script to answer to the command line question. 
+
 It __must not__ contain:
 * The datasets you used (thus you should clearly state in the readme what dataset you used, if any not in the homework description). That's because git allows you to push only dataset smaller of a max size. [Here](https://medium.com/@haydar_ai/learning-how-to-git-ignoring-files-and-folders-using-gitignore-177556afdbe3) a good Medium's post that tells you how to deal with files/directories you do not want to push on GitHub.
 
