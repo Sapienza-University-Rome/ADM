@@ -143,6 +143,21 @@ f2(List, 0, N)
 </pre>
 - What is the output of this algorithm? Describe the mechanism of the algorithm <ins>in detail </ins>. We __do not__ want to know only its final result. (Describe one example on your own)
 - What is asymptotically (i.e., we are asking for big-O complexity) the algorithm's running time as a function of N? 
-- Is this algorithm the __optimal__ one to produce this output? If not, can you suggest a <ins>better algorithm</ins> to perform the same task? The evidence indicates that this person does not run for office, given that the probability of enough support is less than 0.5.
+- Is this algorithm the __optimal__ one to produce this output? If not, can you suggest a <ins>better algorithm</ins> to perform the same task?
 
-2. [**AQ2**] This question is under revision and will be published soon. So, wait for it! 
+2. [**AQ2**] *Considering the following problem, answer the questions:* 
+
+Alex has a ribbon of <ins>length N</ins>. He wants to cut the ribbon in a way that fulfils the following __three__ conditions:
+
+- Each piece of the cut should have an <ins>integer length</ins> 
+- He should <ins>at least</ins> cut the ribbon once
+- The __multiplication__ of the length of all the pieces be the <ins>maximum possible</ins> 
+
+1. Implement a __recursive algorithm__ to help Alex find the maximum possible value after multiplying the length of the pieces. Explain your algorithm in detail. 
+2. Show that the algorithm has <ins>exponential</ins> running time. 
+3. Now provide a <ins>polynomial solution</ins>, based on __dynamic programming__, and compute its running-time complexity.
+4. Evaluate the <ins>running time</ins> of your algorithm for the sizes (Ns) in the __range of [2, 25]__, plot the results, and interpret it (if you have implemented <ins>two algorithms</ins>, please include both in the plot and compare them). 
+5. (Optional, mini bonus) Is the algorithm of question 3 __optimal__? If you belive it, can you prove it? If not, can you find a __faster__ algorithm? In case you found a faster algorithm implement it and explain your algorithm in detail. 
+
+
+
