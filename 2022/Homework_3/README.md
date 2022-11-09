@@ -43,7 +43,7 @@ At this point, you should have all the HTML documents about the places of intere
 6. Short Description (to save as `placeShortDesc`): String. Everything from the title and location up to the image (blue frame on the example image).
 7. Nearby Places (to save as `placeNearby`): Extract the names of all nearby places, but only keep unique values: List of Strings.
 8. Address of the place(to save as `placeAddress`): String.
-9. Altitude and Longitude of the place's location(to save as `placeAlt` and `placeLong`): Floats
+9. Latitud and Longitude of the place's location(to save as `placeAlt` and `placeLong`): Floats
 10. The username of the post editors (to save as `placeEditors`): List of Strings.
 11. Post publishing date (to save as `placePubDate`): datetime.
 12. The names of the lists that the place was included in (to save as `placeRelatedLists`): List of Strings.
