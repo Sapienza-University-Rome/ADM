@@ -5,8 +5,7 @@
 
 Travelling is a pleasant activity which has increased since the end of the COVID-19 pandemic. Nowadays, people look for places to visit which are attractive, affordable, with a rich history and which have recommended activities. Using user-generated content, [Atlas Obscura](https://www.atlasobscura.com/), an American online magazine and travel firm, catalogues unusual and obscure tourist locations. The website's articles span many subjects, including history, science, cuisine, and unique places.
 
-You and your team have been hired to provide your *Data Science knowledge* to create a **search engine** which will facilitate specific searches towards a *topic* related to the most popular places to visit. **Important:** All the functions must be implemented from scratch unless differently specified.
-
+You and your team have been hired to provide your *Data Science knowledge* to create a **search engine** which will facilitate specific searches towards a *topic* related to the most popular places to visit. **Important:** In general, you can use functions from libraries such as scikit-learn, NumPy, pandas, etc., which will help you to make intermediate calculations. But, you are not allowed to use, for example, a function that automatically creates a search engine. 
 Then, let's get started!
 
 ## 1. Data collection
