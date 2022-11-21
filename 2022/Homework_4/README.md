@@ -41,7 +41,10 @@ Using the previously selected data with the features you found pertinent, you ha
 ### 1.3 Locality Sensitive Hashing
 
 Now that you prepared your algorithm, it's query time!  
-We have prepared some dummy users for you to work with. Download [this csv](...) and report the most similar users (comparing them against the dataset provided in Kaggle). Did your hashing method work properly, and how long did it take to run? Provide information and analysis about the results.
+We have prepared some dummy users for you to work with.  
+
+Download [this csv](https://drive.google.com/file/d/1ob7l9vuujfy8cSNWlpt1shcHWXeLHxPs/view?usp=sharing) and report the most similar users (comparing them against the dataset provided in Kaggle).  
+Did your hashing method work properly, what scores have you obtained and how long did it take to run? Provide information and analysis about the results.
 
 
 ## 2. Grouping customers together!
