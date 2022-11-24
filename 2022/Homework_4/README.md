@@ -69,7 +69,7 @@ To solve this task, you must accomplish the following stages:
 
       e) Average difference between the balance and the transaction amount for each customer (this is mainly known in the banking world as utilisation).
 
-      f) Gender of the customer
+      f) Most common gender of the customer
 
       h) Most frequent location of the customer
 
