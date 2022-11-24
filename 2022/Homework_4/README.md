@@ -172,7 +172,7 @@ In the first line, you will be given the values of N, M and G, which correspond 
 $$1 \le N \le 10^6$$
 $$1 \le M \le 10^3$$
 $$1 \le G \le 100$$
-In the second line, you will be given M integers which the ith integer corresponds to the entrance that has been assigned to the ith student to enter the university. 
+In the second line, you will be given M integers which the ith integer corresponds to the entrance that has been assigned to the ith student to enter the university. Students will enter the university in the same order . 
 
 **Ouptut:**
 
