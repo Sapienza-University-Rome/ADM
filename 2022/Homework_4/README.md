@@ -57,7 +57,7 @@ To solve this task, you must accomplish the following stages:
 
 1) Access to the data found in [this dataset](https://www.kaggle.com/datasets/shivamb/bank-customer-segmentation) (it is the same dataset from the previous question 1.1).
 
-2) Sometimes, the features (variables, fields) are not given in a dataset but can be created from it. The previous step is known as *feature engineering*. For example, the original dataset has several transactions done by the same customer. Then, we ask you to group data by the client (using CustomerId) and, based on it, create the following new features **for each** CustomerId: 
+2) Sometimes, the features (variables, fields) are not given in a dataset but can be created from it. The previous step is known as *feature engineering*. For example, the original dataset has several transactions done by the same customer. Then, we suggest you to group data by the client (using CustomerId) and, based on it, create the following new features **for each** CustomerId: 
 
       a) Number of transactions
 
