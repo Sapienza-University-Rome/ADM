@@ -23,7 +23,7 @@ In this Homework, you will explore the Marvel Comics Universe, exploring relatio
 * __Backend:__ where you need to develop efficient algorithms that define the *functionalities of the system*
 * __Frontend:__ where you provide *visualization for queries entered by the user*
 
-__IMPORTANT:__ The** main functions** for each functionality should be written from scratch in the backend part. Nevertheless, you can use the data structures provided by networkx (such as closeness_centrality, betweenness_centrality, pagerank, or any other function that can help you as an intermediate step for your main functionalities).
+__IMPORTANT:__ The **main functions** for each functionality should be written from scratch in the backend part. Nevertheless, you can use the data structures provided by networkx (such as closeness_centrality, betweenness_centrality, pagerank, or any other function that can help you as an intermediate step for your main functionalities).
 
 
 In the visualization part, you can use any available function (networkx functions are highly recommended).
