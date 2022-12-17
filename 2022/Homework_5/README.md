@@ -219,7 +219,7 @@ However, to install the application secretly, he needs her phone's password, whi
 Alex wants to distract Sarah's attention long enough to test all possible patterns based on the directions of the line segments he has learned. Therefore, he needs you to assist him in calculating <ins>how many possible patterns</ins> he has to try based on those directions to estimate how much time he needs to check all of those possibilities. Given that the line segments were directed right, down, left, and up, the following figure depicts __two valid__ and __one invalid__ (as the poly-lines should <ins>not intersect</ins> even in one point) patterns.
 
 <p align=center>
-<img src="https://github.com/lucamaiano/ADM-TA/blob/master/2022/Homework_5/img/Examples.png">
+<img src="https://github.com/lucamaiano/ADM/blob/master/2022/Homework_5/img/Examples.png">
 </p>
 
 **Input:**
