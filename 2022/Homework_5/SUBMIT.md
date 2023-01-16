@@ -48,8 +48,8 @@ It __must not__ contain:
 
 Each member of the team will need to fill other 2 forms, that will be published after the deadline of the homework:
 
-1. [Individual Feedback - (TBD)](): a form to express how you worked with your group, and who did what.
-2. [Peer Review  - (TBD)](): you will receive an email, containing a homework that you have to review. You will find the guidelines of the review in the form. Peer review is intended to help you to develop your critical skills towards other people's work and to compare your work with that of others. 
+1. [Individual Feedback - (Due 19/01/2023 23:59)](https://forms.gle/mtspSU85rZKE32gf7): a form to express how you worked with your group, and who did what.
+2. [Peer Review  - (Due 19/01/2023 23:59)](https://forms.gle/gFN6c5R1krGejnWG8): you will receive an email, containing a homework that you have to review. You will find the guidelines of the review in the form. Peer review is intended to help you to develop your critical skills towards other people's work and to compare your work with that of others. 
 
 You will have __5 days (120 hours)__ to fill the two forms. They are __mandatory__, i.e. we will not grade your homework if you won't fill all the forms.
 
