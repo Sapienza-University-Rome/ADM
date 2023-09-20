@@ -1,12 +1,12 @@
-# Algorithms for Data Mining 
+# Algorithmic Methods for Data Mining (ADM) 
 
 Hi everyone,
-here you find the homework of ADM class of the MSc in Data Science @La Sapienza University. For each years you find the respective assignments.
+Here, you will find the collection of homework for the ADM class of the MSc. in Data Science @ Sapienza University. For each year, you will see the respective assignments.
 
-In particular, for each assignment, you find a sub directory that contains:
+In particular, for each assignment, you find a sub-directory that contains:
 
 - `README.md` that describes the task
-- `SUBMIT.md` which contains the deadline and the deliverables. You can also find the needed forms for the delivery!
+- `SUBMIT.md` that contains the deadline and the deliverables. You can also find the needed forms for the delivery (usually updated a few days before the deadline)!
 
 ## Take a look at
 - `EVALUATION.md`: How peer evaluation works
@@ -15,22 +15,22 @@ In particular, for each assignment, you find a sub directory that contains:
 
 
 ## Collaborations
-According to the policy presented by Aris and Ioannis, we encourage you to ask questions to your colleagues before coming to TAs office hours. As you did for homework 1, __Slack__ is a powerful mean to have an answer to your questions, so use it! Remember that partecipate to a debate is always a good way to practise.
+According to the policy presented by Aris and Ioannis, we encourage you to ask questions to your colleagues before asking to the TAs team. As you will be informed by the TAs team, __Slack__ is a powerful resource to have an answer to your questions, so use it! Remember that participating in a debate is always an excellent way to practice.
 
 ## Office hours
-Due to the fact that some of TAs work remotely and that you will have classes at different buildings, TAs will not have office hours. Nonetheless, we will be always available on Slack to answer any of your question and, if you are struggling and having lot of troubles with the homework, you ask on Slack to organize office hours for the entire class and this will be set up at gazebos at DIAG, via Ariosto 25. During the office hours TAs will answer your questions and will make clarifications about parts of the homework that do not sound clear to you.
+Since some TAs work remotely and you will have classes at different buildings, TAs will not have office hours. Nonetheless, we will constantly be available on Slack to answer any of your questions, and if you are struggling and having a lot of trouble with the homework, you ask on Slack to organize office hours for the entire class, and this will be set up at DIAG, via Ariosto 25. During office hours, TAs will answer your questions and clarify unclear parts of the homework.
 
 ## Register to the course
-To register for the course, participate in the assignments, access the Slack channel and receive official communications, you must fill out [this form](http://aris.me/register-adm.html).
+To register for the course, participate in the assignments, access the Slack channel, and receive official communications, you must fill out [this form](~http://aris.me/register-adm.html~).
 
 ## TAs contacts
 
 |    TA    | Slack (preferable) | Email address            |
 |:--------:|:------------------:|--------------------------|
-|  *(HTA)* Luca Maiano|     @Luca Maiano     | maiano@diag.uniroma1.it      |
-|  *(HTA)* Daniel Jiménez |     @daniel mauricio jimenez gutierrez     | jimenezgutierrez.1939216@studenti.uniroma1.it       |
+|  *(HTA)* Daniel Jiménez |     @daniel mauricio jimenez gutierrez     | jimenezgutierrez@diag.uniroma1.it       |
 |  *(TA)* Mehrdad Hassanzadeh | @Mehrdad Hassanzadeh |   hassanzadeh.1961575@studenti.uniroma1.it  |
-|  *(TA)* Nina Kaploukhaya |  @Nina KAPLOUKHAYA  | kaploukhaya.1998079@studenti.uniroma1.it    |
-|  *(TA)* Valentino Sacco |  @Valentino Sacco  | sacco.1949934@studenti.uniroma1.it   |
+|  *(TA)* Sara Pepe |  @  | pepe.2031951@studenti.uniroma1.it    |
+|  *(TA)* Leonardo di Nino |  @  | dinino.1919479@studenti.uniroma1.it   |
+|  *(TA)* Eric Rubia Aguilera |  @  | rubiaaguilera.2049558@studenti.uniroma1.it   |
 
-We will reply ASAP, on Slack the responsiveness is higher. If you send us an e-mail, please start the object with "[ADM2022]".
+We will reply ASAP. On Slack, the responsiveness is higher. If you send us an e-mail, please start the object with "[ADM2023]".
