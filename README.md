@@ -9,9 +9,9 @@ In particular, for each assignment, you find a sub-directory that contains:
 - `SUBMIT.md` that contains the deadline and the deliverables. You can also find the needed forms for the delivery (usually updated a few days before the deadline)!
 
 ## Take a look at
-- `EVALUATION.md`: How peer evaluation works
-- `DELIVERY.md`: Submitting policy
-- `FAQ.md`: Frequently asked questions while working in groups.
+- [`EVALUATION.md`](https://github.com/Sapienza-University-Rome/ADM/blob/master/EVALUATION.md): How peer evaluation works
+- [`DELIVERY.md`](https://github.com/Sapienza-University-Rome/ADM/blob/master/DELIVERY.md): Submitting policy
+- [`FAQ.md`](https://github.com/Sapienza-University-Rome/ADM/blob/master/FAQ.md): Frequently asked questions while working in groups.
 
 
 ## Collaborations
