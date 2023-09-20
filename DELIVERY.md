@@ -16,9 +16,9 @@ __N.b.__: If you need more time to complete the Homework, please contact ASAP an
 
 For these steps, each one of you is responsible for himself. If at least one of these steps is not performed in __5 days (120 hours)__ after the deadline, we'll not consider your Homework as delivered, even if it exists and is well done.
 
-3) __Individual review__: you need to fill in this form to tell us about your experience with your team-mates. The latter helps give the proper credit to the ones of you who have worked hard for this Homework.
+3) __Individual review__: you need to fill in this form to tell us about your experience with your team-mates. The latter helps to give the proper credit to the ones of you who have worked hard for this Homework.
 
-4) __Peer Review__: you need to fill in this form, in which you make the review of a random homework of your colleagues. More details are in the [`EVALUATION.md`](https://github.com/Sapienza-University-Rome/ADM/blob/master/EVALUATION.md) file.
+4) __Peer Review__: you need to fill in this form, in which you make the review of a random homework of your colleagues. More details are in the [`EVALUATION.md`](https://github.com/CriMenghini/ADM-2018/blob/master/EVALUATION.md) file.
 
 
 All required forms will be available in each Homework folder at the end of the [`README.md`] file.
@@ -26,5 +26,3 @@ All required forms will be available in each Homework folder at the end of the [
 For any questions regarding the delivery, Slack one of the TAs!
 
 Good luck!
-
-
