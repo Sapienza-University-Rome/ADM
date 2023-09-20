@@ -1,9 +1,9 @@
 # Submit the homework
 
-In this section, you find the instructions to submit your assignment.
+In this section, you find the instructions to submit your group assignment.
 
 ## When?
-Homework 1 is due on [October Xth](). Any homework submitted after the deadline will be subjected to a penalization with the following schema:
+Homework 1 is due on [October 9th](http://aris.me/index.php/data-mining-ds-2022). Any homework submitted after the deadline will be subjected to a penalization with the following schema:
 
 |   Delay  | Penalisation |
 |:--------:|:------------:|
@@ -13,7 +13,7 @@ Homework 1 is due on [October Xth](). Any homework submitted after the deadline 
 | 4 days |      -3      |
 | 5 days |      -4      |
 
-If you have particular problems respecting the deadline, please contact Aris directly (putting Daniel in cc), explain your situation clearly, and mention your working group.
+If you have particular problems respecting the deadline, please contact Aris directly (putting @Daniel in cc), explain your situation clearly, and mention your working group.
 
 
 The maximum score you can get is 5.
@@ -56,3 +56,7 @@ Alternatively, you can produce a Jupyter Notebook, where each cell contains an e
 It __must not__ contain:
 
 * The datasets you used (thus, you should clearly state in the readme what dataset you used, if any, not in the homework description). That's because git allows you to push only datasets smaller than a maximum size. [Here](https://haydar-ai.medium.com/learning-how-to-git-ignoring-files-and-folders-using-gitignore-4b6a1ec43ce1) a good Medium's post that tells you how to deal with files/directories you do not want to push on GitHub.
+
+
+
+
