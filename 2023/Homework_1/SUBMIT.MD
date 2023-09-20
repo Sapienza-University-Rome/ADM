@@ -1,9 +1,9 @@
 # Submit the homework
 
-In this section you find the instruction to submit your group assignment.
+In this section, you find the instructions to submit your assignment.
 
 ## When?
-Homework 1 is due on [October 9th](http://aris.me/index.php/data-mining-ds-2022). Any homework submitted after the deadline will be subjected to a penalisation with the following schema:
+Homework 1 is due on [October Xth](). Any homework submitted after the deadline will be subjected to a penalization with the following schema:
 
 |   Delay  | Penalisation |
 |:--------:|:------------:|
@@ -13,7 +13,7 @@ Homework 1 is due on [October 9th](http://aris.me/index.php/data-mining-ds-2022)
 | 4 days |      -3      |
 | 5 days |      -4      |
 
-If you have particular problems to respect the deadline, please contact Aris directly (putting @Luca in cc) and explain your situation clearly mention your working group.
+If you have particular problems respecting the deadline, please contact Aris directly (putting Daniel in cc), explain your situation clearly, and mention your working group.
 
 
 The maximum score you can get is 5.
@@ -21,18 +21,18 @@ The maximum score you can get is 5.
 ## Where?
 1. Each student must create a GitHub repository: follow these [steps](https://github.com/CriMenghini/ADM-HW4/blob/master/README.md) (replace ADM-HW4 with the name you give to the repository).
 
-2. Before the deadline you can push in the repository whatever you want. Any push after the deadline will be taken into account for the penalisation.
+2. Before the deadline, you can push in the repository whatever you want. Any push after the deadline will be taken into account for the penalization.
 
 __Note__ :
 
-* The state of the repository at deadline time corresponds to your submission.
-* __[IMPORTANT]__ be sure to compile this [form](https://docs.google.com/forms/d/e/1FAIpQLSeif04XLyPew6sgUAkagvn0DJYbuD24-OOWv1qIicT9LSMLIg/viewform?usp=sf_link).
+* The state of the repository at the deadline time corresponds to your submission.
+* __[IMPORTANT]__ be sure to compile this [form]().
 
 ## What?
 
 The content of the repository is up to you. The mandatory files are:
 
-* `README.md`: a Markdown file that explains the content of your repository. This is an [example](https://github.com/CriMenghini/Wikipedia/tree/master/Mention). It is important that for each file/folder you say what it contains. [Here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) a cheatsheet to use Markdown.
+* `README.md`: a Markdown file that explains the content of your repository. This is an [example](https://github.com/CriMenghini/Wikipedia/tree/master/Mention). You must say what it contains for each file/folder. [Here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) a cheatsheet to use Markdown.
 * `scripts.py`: a .py file that contains any solution of the exercise you completed, with this structure:
 
 ----------------------------
@@ -49,14 +49,10 @@ script_last_exercise
 
 ----------------------------
 
-Alternatively, you can also produce a Jupyter Notebook, where each cell contains an exercise.
+Alternatively, you can produce a Jupyter Notebook, where each cell contains an exercise.
 
-* `stamps/`: list screenshot that assess the successful exercises you did.
+* `stamps/`: list screenshots or PDFs assessing your successful exercises.
 
 It __must not__ contain:
 
-* The datasets you used (thus you should clearly state in the readme what dataset you used, if any not in the homework description). That's because git allows you to push only dataset smaller of a max size. [Here](https://haydar-ai.medium.com/learning-how-to-git-ignoring-files-and-folders-using-gitignore-4b6a1ec43ce1) a good Medium's post that tells you how to deal with files/directories you do not want to push on GitHub.
-
-
-
-
+* The datasets you used (thus, you should clearly state in the readme what dataset you used, if any, not in the homework description). That's because git allows you to push only datasets smaller than a maximum size. [Here](https://haydar-ai.medium.com/learning-how-to-git-ignoring-files-and-folders-using-gitignore-4b6a1ec43ce1) a good Medium's post that tells you how to deal with files/directories you do not want to push on GitHub.
