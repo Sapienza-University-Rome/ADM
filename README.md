@@ -28,7 +28,7 @@ To register for the course, participate in the assignments, access the Slack cha
 |    TA    | Slack (preferable) | Email address            |
 |:--------:|:------------------:|--------------------------|
 |  *(HTA)* Daniel Jiménez |     @daniel mauricio jimenez gutierrez     | jimenezgutierrez@diag.uniroma1.it       |
-|  *(TA)* Mehrdad Hassanzadeh | @Mehrdad Hassanzadeh |   hassanzadeh.1961575@studenti.uniroma1.it  |
+|  *(TA)* Mehrdad Hassanzadeh | @Mehrdad Hassanzadeh (TA)  |   hassanzadeh.1961575@studenti.uniroma1.it  |
 |  *(TA)* Sara Pepe |  @sara pepe   | pepe.2031951@studenti.uniroma1.it    |
 |  *(TA)* Leonardo di Nino |  @Leonardo Di Nino (TA)   | dinino.1919479@studenti.uniroma1.it   |
 |  *(TA)* Eric Rubia Aguilera |  @Eric Rubia Aguilera   | rubiaaguilera.2049558@studenti.uniroma1.it   |
