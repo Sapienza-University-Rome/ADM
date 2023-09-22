@@ -3,7 +3,7 @@
 In this section, you find the instructions to submit your group assignment.
 
 ## When?
-Homework 1 is due on [October 9th](http://aris.me/index.php/data-mining-ds-2022). Any homework submitted after the deadline will be subjected to a penalization with the following schema:
+Homework 1 is due on [October 15th](http://aris.me/index.php/data-mining-ds-2023). Any homework submitted after the deadline will be subjected to a penalization with the following schema:
 
 |   Delay  | Penalisation |
 |:--------:|:------------:|
