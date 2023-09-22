@@ -26,7 +26,7 @@ The maximum score you can get is 5.
 __Note__ :
 
 * The state of the repository at the deadline time corresponds to your submission.
-* __[IMPORTANT]__ be sure to compile this [form]().
+* __[IMPORTANT]__ To submit the HW you must compile this [form]().
 
 ## What?
 
