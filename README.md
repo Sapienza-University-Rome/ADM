@@ -1,4 +1,4 @@
-# Algorithmic Methods for Data Mining (ADM) 
+# Algorithmic Methods of Data Mining (ADM) 
 
 Hi everyone,
 Here, you will find the collection of homework for the ADM class of the MSc. in Data Science @ Sapienza University. For each year, you will see the respective assignments.
