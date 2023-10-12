@@ -12,7 +12,7 @@ Specifically, you will be assigned a score between 1 and 5 for each aspect.
 The TAs will evaluate all the homework.
 
 ### Peer evaluation
-* For each homework, some (randomly choose) students will review the assignment of 1 random group (peer review) 
+* For each homework, some (randomly chosen) students will review the assignment of 1 random group (peer review) 
 * Your group will get around three reviews
 
 The homework you should review will be communicated through email. Once you have completed your review, you will submit it through a form where you will be asked to tell us the group score for each section and explain your choices.
