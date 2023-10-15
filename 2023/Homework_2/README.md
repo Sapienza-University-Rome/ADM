@@ -6,7 +6,7 @@ Assume you and your team work for a company that is interested in analyzing all 
 
 Your **goal** is to answer the Research Questions (RQs) that may help discover and interpret meaningful data patterns and eventually understand how readers and authors behave.
 
-![overflowing-bookcases](https://github.com/Sapienza-University-Rome/ADM-TA/blob/master/2023/Homework_2/img/books_pict.jpg)
+![overflowing-bookcases](https://github.com/Sapienza-University-Rome/ADM/blob/master/2023/Homework_2/img/books_pict.jpg)
 
 ____
 
