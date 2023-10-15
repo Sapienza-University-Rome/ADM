@@ -13,7 +13,7 @@ The TAs will evaluate all the homework.
 
 ### Peer evaluation
 * For each homework, some (randomly chosen) students will review the assignment of 2 random groups (peer review) 
-* Your group will get around three reviews
+* Therefore, each group will get around 6 reviews
 
 The homework you should review will be communicated through email. Once you have completed your review, you will submit it through a form where you will be asked to tell us the group score for each section and explain your choices.
 
