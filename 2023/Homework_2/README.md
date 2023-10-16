@@ -112,7 +112,7 @@ ____
 
 - If you feel comfortable and did **both** tasks, analyze the matching of the two procedures. You grouped books and authors in genres. Do these two procedures show correspondence?
   
-# Command Line Question
+# Command Line Question (CLQ)
 Using the command line is a feature that Data Scientists must master. It is relevant since the operations there require less memory to use in comparison to other interfaces. It also uses less CPU processing time than other interfaces. In addition, it can be faster and more efficient and handle repetitive tasks quickly.
 
 __Note:__ To answer the question in this section, you must strictly use command line tools. We will reject any other method of response. 
@@ -133,7 +133,7 @@ The expected result is as follows:
 |51138|Hercule Poirot|11305|
 
 
-# AWS Question
+# AWS Question (AWSQ)
 AWS offers access to many cloud-based tools and services that simplify data processing, storage, and analysis. Thanks to AWS's scalable and affordable solutions, data scientists can work effectively with large datasets and carry out advanced analytics. A data scientist must, therefore, perform the essential task of learning how to use AWS. To complete a straightforward data analysis task in this question, you must set up an environment on Amazon Web Services. 
 
 In this question, you are asked to provide the most commonly used tags for book lists. Going through the [__list.json__](https://www.kaggle.com/datasets/opalskies/large-books-metadata-dataset-50-mill-entries) file, you'll notice that each list has a list of tags attached, and we want to see what are the <ins>most popular tags</ins> across all of the lists. Please report the __top 5__ most frequently used tags and the number of times they appear in the lists.
@@ -163,7 +163,7 @@ The following is the expected outcome for the most popular tags:
 |science-fiction|2779|
 
 
-# Algorithmic Question
+# Algorithmic Question (AQ)
 Assume you are working as a librarian at a public library in Rome. Some new books have arrived, and you are in charge of putting them on a shelf. Your supervisor will give you some instructions, and you will follow his. Each book has a unique ID, and your boss's instructions can be of the following types: 
 
 - **L N** - place the book with ID = N on the shelf to the left of the leftmost existing book
