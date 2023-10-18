@@ -16,7 +16,7 @@ Among all the numerous things and good practices a Data Scientist needs to do be
 
 Here, you find the list of tasks you must perform before getting your hands on the actual data and into this world of literature.
 
-* **Get your data!** You must use the files [lighter_authors.json](https://sapienza2023adm.s3.eu-south-1.amazonaws.com/lighter_authors.json) and [lighter_books.json](https://sapienza2023adm.s3.eu-south-1.amazonaws.com/lighter_books.json), which are random samples we draw for you to work with. Notice that the mentioned data is based on [this website](https://www.kaggle.com/datasets/opalskies/large-books-metadata-dataset-50-mill-entries).
+* **Get your data!** You must use the files [lighter_authors.json](https://adm2023.s3.amazonaws.com/lighter_authors.json) and [lighter_books.json](https://adm2023.s3.amazonaws.com/lighter_books.json) (LINKS UPDATED), which are random samples we draw for you to work with. Notice that the mentioned data is based on [this website](https://www.kaggle.com/datasets/opalskies/large-books-metadata-dataset-50-mill-entries).
 * **Understand your data.** Read the name of each file to understand what it refers to, dig into its structure, and read the description on the page where the data is available. Please be sure that you've understood the data before starting coding.
 * **Handling the data.** The data are provided in many '.json' files. To answer the RQs, we kindly suggest you look for ways to handle this type of data and then perform the necessary operations based on what you want to analyze.
   
