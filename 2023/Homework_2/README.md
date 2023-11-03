@@ -132,6 +132,8 @@ The expected result is as follows:
 |41459|Oz|11519|
 |51138|Hercule Poirot|11305|
 
+__Important note:__ Please run each script and include a __screenshot__ and the <ins>output of each</ins> in the notebook for evaluation.  
+
 
 # AWS Question (AWSQ)
 AWS offers access to many cloud-based tools and services that simplify data processing, storage, and analysis. Thanks to AWS's scalable and affordable solutions, data scientists can work effectively with large datasets and carry out advanced analytics. A data scientist must, therefore, perform the essential task of learning how to use AWS. To complete a straightforward data analysis task in this question, you must set up an environment on Amazon Web Services. 
