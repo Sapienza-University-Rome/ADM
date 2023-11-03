@@ -163,6 +163,8 @@ The following is the expected outcome for the most popular tags:
 |fantasy|3666|
 |science-fiction|2779|
 
+__Important note:__ please include your report into your notebook. 
+
 
 # Algorithmic Question (AQ)
 Assume you are working as a librarian at a public library in Rome. Some new books have arrived, and you are in charge of putting them on a shelf. Your supervisor will give you some instructions, and you will follow his. Each book has a unique ID, and your boss's instructions can be of the following types: 
