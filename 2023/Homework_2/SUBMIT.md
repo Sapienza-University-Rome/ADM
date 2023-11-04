@@ -26,7 +26,7 @@ The maximum score you can get is 5.
 __Note__ :
 
 * The state of the repository at deadline time corresponds to your submission.
-* __[IMPORTANT]__ be sure to compile this [form (TBD)](). **Only ONE PERSON per group must fill out the form**.
+* __[IMPORTANT]__ be sure to compile this [form](https://forms.gle/cVcxJPFqo7Zk8P8z9). **Only ONE PERSON per group must fill out the form**.
 
 ## What?
 
