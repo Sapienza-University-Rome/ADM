@@ -15,7 +15,7 @@ The TAs will evaluate all the homework.
 * For each homework, each student will review the assignment of 2 random groups (peer review) 
 * Therefore, each group will get around 6 reviews
 
-The homework you should review will be communicated through email. Once you have completed your review, you will submit it through a form where you will be asked to tell us the group score for each section and explain your choices.
+The two pieces homework you should review will be communicated through email. Once you have completed your review, you will submit it through a form (submit each repository in a different form) where you will be asked to tell us the group score for each section and explain your choices.
 
 Since how you do the Peer evaluation __will be part__ of your final grade, here are some examples of good reviews:
 
