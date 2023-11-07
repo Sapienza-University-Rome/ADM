@@ -6,9 +6,6 @@
 Nowadays, society expects everyone, especially you, to have a decent level of knowledge from a relatively wide range of topics. To do so, as you are all doing here, most students choose, after finishing their undergraduate studies, to keep on studying. The natural next step is the Master's Degree!
 You will be working with a [webpage](https://www.findamasters.com) that provides information and evalutation on many of these master's degrees in many universities worldwide.  
 
-Nowadays, society expects everyone, especially you, to have a decent level of knowledge from a relatively wide range of topics. To do so, as you are all doing here, most students choose, after finishing their undergraduate studies, to keep on studying. The natural next step is the Master's Degree!
-You will work with a [webpage](https://www.findamasters.com) that provides information and evaluation on many of these master's degrees in many universities worldwide.
-
 # VERY VERY IMPORTANT
 1. **!!! Read the entire homework before coding anything!!!**
 2. *My solution is not better than yours, and yours is not better than mine*. In any data analysis task, there **is no** unique way to answer. For this reason, it is crucial (**necessary and mandatory**) that you describe any single decision you take and all your steps.
