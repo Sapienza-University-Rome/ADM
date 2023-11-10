@@ -49,8 +49,8 @@ It __must not__ contain:
 
 Each student will (randomly) need to fill other 2 forms, that will be published after the deadline of the homework:
 
-1. [Individual Feedback - (complete by November 10th at 23:59:59)](https://forms.gle/sTbqmz5kANbm8zGh8): a form to express how you worked with your group, and who did what.
-2. [Peer Review  - (complete by November 10th at 23:59:59)](https://forms.gle/7UdEqUDATet5TczQ9): you will receive an email, containing 2 pieces of homework that you have to review. You will find the guidelines of the review in the form. Please submit one different form for each repository reviewed. Peer review is intended to help you to develop your critical skills towards other people's work and to compare your work with that of others. 
+1. [Individual Feedback - (complete by November 11th at 23:59:59)](https://forms.gle/sTbqmz5kANbm8zGh8): a form to express how you worked with your group, and who did what.
+2. [Peer Review  - (complete by November 11th at 23:59:59)](https://forms.gle/7UdEqUDATet5TczQ9): you will receive an email, containing 2 pieces of homework that you have to review. You will find the guidelines of the review in the form. Please submit one different form for each repository reviewed. Peer review is intended to help you to develop your critical skills towards other people's work and to compare your work with that of others. 
 
 You will have __5 days (120 hours)__ to fill the two forms after the HW submission. They are __mandatory__, i.e. we will not grade your homework if you won't fill all the forms.
 
