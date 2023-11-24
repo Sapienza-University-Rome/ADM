@@ -347,7 +347,7 @@ The output must contain the following information about the places:
 * `universityName`
 * `url`
 
-## 6. Command Line Question
+## 6. Command Line Question (CLQ)
 
 As done in the previous assignment, we encourage using the command as a feature that Data Scientists must master.
 
@@ -362,7 +362,7 @@ Now that you have your merged file named merged_courses.tsv, use Linux commands 
 
 __Important note:__ You may work on this question in any environment (AWS, your PC command line, Jupyter notebook, etc.), but the final script must be placed in CommandLine.sh, which must be executable. Please run the script and include a __screenshot__ of the <ins>output</ins> in the notebook for evaluation.
 
-## 7. Algorithmic Question 
+## 7. Algorithmic Question (AQ)
 Leonardo is an intern at a company. He is paid based on the total number of hours he has worked. They agreed __d__ days ago that Leonardo could not work less than $minTime_i$ or more than $maxTime_i$ hours per <ins>i-th</ins> day. Furthermore, he was warned by HR that on his last day at the company, he should provide a detailed report on how many hours he worked <ins>each day</ins> for the previous d days.
 
 Today is the day Leonardo should report to HR, but the problem is that he <ins>didn't</ins> account for how many hours he put in for each day, so he only has the __total sum of the hours__ ($sumHours$) he put in total in these d days. He believes that if he creates a report in which each number $dayHours_i$ corresponds to the __total hours he worked on the i-th day__ while satisfying the HR limitations and the total sum of all $dayHours_i$ equals $sumHours$, he would be fine.
