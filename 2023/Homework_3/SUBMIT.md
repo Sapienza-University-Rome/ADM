@@ -26,7 +26,7 @@ The maximum score you can get is 5.
 __Note__ :
 
 * The state of the repository at deadline time corresponds to your submission.
-* __[IMPORTANT]__ be sure to compile this [form TBD](). **Only ONE PERSON per group must fill out the form**.
+* __[IMPORTANT]__ be sure to compile this [form](https://forms.gle/Eki1jffxAz2UiggL9). **Only ONE PERSON per group must fill out the form**.
 
 ## What?
 
@@ -34,15 +34,14 @@ The content of the repository is up to you. The mandatory files are:
 
 * `README.md`: a Markdown file that explains the content of your repository. This is an [example](https://github.com/CriMenghini/Wikipedia/tree/master/Mention). It is important that for each file/folder you say what it contains. [Here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) a cheatsheet to use Markdown.
 
-* `main.ipynb`: a Jupyter notebook that contains all the answers to your research and theoretical questions. The notebook must be clear, complete and tidy. [Here](https://github.com/dusicastepic/ADMSecondHomework/blob/master/ADM_HW2_Full.ipynb) an example of a nice notebook from previous years.
+* `main.ipynb`: ONLY ONE Jupyter notebook that contains ALL the answers to ALL the questions. The notebook must be clear, complete and tidy. [Here](https://github.com/dusicastepic/ADMSecondHomework/blob/master/ADM_HW2_Full.ipynb) an example of a nice notebook from previous years.
     - In general, for the sake of the tidiness of the Notebook, you are encouraged to save your functions in external .py files that you [import](https://www.programiz.com/python-programming/modules) in the notebook.
     - Upload on GitHub the notebook with the cells already run
-    - It might be possible that you do not see some plots. For this reason, we suggest you to put in the `README.md` a link that you create [here](http://nbviewer.jupyter.org/) just copying and paste the url of your notebook on GitHub.
+    - It might be possible that you do not see some plots. For this reason, we suggest you to put in the `README.md` a link that you create [here](http://nbviewer.jupyter.org/) just copying and paste the url of your notebook on GitHub. You could also provide a link to a Google Colab notebook if needed.
 
-* `commandline_original.[ext]`: the script file to answer the __1st point__ of the <ins>command line question</ins>
-* `commandline_LLM.[ext]`: the script file to answer the __2nd point__ of the <ins>command line question</ins>
+* `commandline.[ext]`: the script file to answer the  <ins>command line question</ins>
 
-It __must not__ contain:
+It __MUST NOT__ contain:
 * The datasets you used (thus you should clearly state in the readme what dataset you used, if any not in the homework description). That's because git allows you to push only dataset smaller of a max size. [Here](https://haydar-ai.medium.com/learning-how-to-git-ignoring-files-and-folders-using-gitignore-4b6a1ec43ce1) a good Medium's post that tells you how to deal with files/directories you do not want to push on GitHub.
 
 ## Post Homework
