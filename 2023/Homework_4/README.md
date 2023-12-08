@@ -149,7 +149,7 @@ We remind you that we consider and grade the bonuses only if you complete the en
 
 __Note__: You can implement your algorithm from scratch or use the one implemented in the scikit-learn library; the choice is up to you!
 
-## 4. Command Line Question
+## 4. Command Line Question (CLQ)
 
 Here is another command line question to enjoy. We previously stated that using the command line tools is a skill that Data Scientists must master.
 
@@ -160,7 +160,7 @@ In this question, you should use any command line tool that you know to answer t
     
 __Important note:__ You may work on this question in any environment (AWS, your PC command line, Jupyter notebook, etc.), but the final script must be placed in CommandLine.sh, which must be executable. Please run the script and include a __screenshot__ of the <ins>output</ins> in the notebook for evaluation.  
 
-## 5. Algorithmic Question 
+## 5. Algorithmic Question (AQ)
 
 Federico studies in a demanding university where he has to take a certain number $N$ of exams to graduate,  but he is free to choose in which order he will take these exams. Federico is panicking since this university is not only one of the toughest in the world but also one of the weirdest. His final grade won't depend at all on the mark he gets in these courses: there's a precise evaluation system. 
 
