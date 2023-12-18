@@ -18,7 +18,7 @@ For these steps, each one of you is responsible for himself. If at least one of 
 
 3) __Individual review__: you need to fill in this form to tell us about your experience with your team-mates. The latter helps to give the proper credit to the ones of you who have worked hard for this Homework.
 
-4) __Peer Review__: you need to fill in this form, in which you make the review of a random homework of your colleagues. More details are in the [`EVALUATION.md`](https://github.com/CriMenghini/ADM-2018/blob/master/EVALUATION.md) file.
+4) __Peer Review__: you need to fill in this form, in which you make the review of 2 random pieces of homework of your colleagues. More details are in the [`EVALUATION.md`](https://github.com/CriMenghini/ADM-2018/blob/master/EVALUATION.md) file.
 
 
 All required forms will be available in each Homework folder at the end of the [`README.md`] file.
