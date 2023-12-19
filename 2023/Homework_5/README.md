@@ -23,7 +23,7 @@ In this Homework, you will explore the paper citation universe, exploring relati
 * __Backend:__ where you need to develop efficient algorithms that define the *functionalities of the system*
 * __Frontend:__ where you provide *visualization for queries entered by the user*
 
-__IMPORTANT:__ To deal with the visualization of graphs, you can freely use libraries such as `networkx` or any other tool you choose. Still, when writing an algorithm, it must be implemented yourself using proper data structures, __without any library that computes some algorithm steps for you__.
+__IMPORTANT:__ To deal with the functionality 1, 2 and visualization of graphs, you can freely use libraries such as `networkx` or any other tool you choose. Still, when writing an algorithm for functionalities 3, 4 and 5, it must be implemented yourself using proper data structures, __without any library that computes some algorithm steps for you__.
 
 
 ## 1. Data 
