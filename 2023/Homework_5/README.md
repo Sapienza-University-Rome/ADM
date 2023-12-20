@@ -52,7 +52,7 @@ As a result, you will attempt to approximate that most connected component by pe
    
    __Citation graph__: only consider the citation relationship between these 10,000 papers and ignore the rest.
    
-   __Collaboration graph__: only consider the citation relationship between these 10,000 papers and ignore the rest. 
+   __Collaboration graph__: only consider the collaborations between the authors of these 10,000 papers and ignore the rest. 
 
 
 # 2. Controlling system
