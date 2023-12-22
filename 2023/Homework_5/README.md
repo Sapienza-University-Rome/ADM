@@ -343,4 +343,17 @@ __Your job__:
 
 ### Part B
 
-We will add another part of this exercise in the upcoming days. We will keep you posted.
+The success of a project depends not only on the expertise of the people involved but also on how effectively they work together as a team. So this time, instead of focusing on who has the best skills, let's focus on finding a group of individuals who can function as a team to accomplish a specific task.
+
+Given a set of skills $T$, our goal is to find a set of individuals $X' \subseteq X$ , such that every required skill in $T$ is exhibited by at least one individual in $X'$. Additionally, the members of team $X'$ should have low effort to work together i.e. all the members of the team $X'$ work well with each other.
+
+This problem can be easily visualised with graphs: we define an undirected weighted graph $G=(V,E)$ where every element $x_i \in X$ has a corresponding node $v_i \in V$. The weights of the edges represent the effort required to work well together: the lower the weight of an edge between two nodes, the less effort the corresponding team members need to work well together.
+
+We define as acceptable solution any subset $V' \subseteq V$ such that $T \cap \cup_{v_i\in V'} S_{v_i}$ where $S_{v_i} =$ {set of skills of member $x_i$ corresponding to the vertex $v_i$}. The goal is to find, among all acceptable solutions, the one that minimizes the effort to work together $E_c(V')$.
+The effort to work together $E_c(V')$ is the cost of the minimum spanning tree on the subgraph $G[V']$ i.e. the sum of the weights of its edges.
+
+__Your job__:
+1. Prove or disprove that the problem is NP-complete.
+2. Write a heuristic in order to approximate the best solution for this problem.
+3. What is the time complexity of your solution ?
+
