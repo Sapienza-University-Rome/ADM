@@ -281,7 +281,7 @@ __Output 1__
 ---
 __Input 2__
 ```
-14 10 1 # N, M, S
+14 10 2 # N, M, S
 SWM VOL ATH VOL VOL BSK HCK BSK SWM BSK #set of skills
 1
 BSK 98
