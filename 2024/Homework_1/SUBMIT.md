@@ -51,7 +51,7 @@ script_last_exercise
 
 Alternatively, you can produce a Jupyter Notebook, where each cell contains an exercise.
 
-* `stamps/`: list screenshots or PDFs assessing your successful exercises. Review [this file](https://github.com/Sapienza-University-Rome/ADM/blob/master/2023/Homework_1/How%20to%20generate%20the%20PDF%20file%20with%20the%20submissions.pdf) to understand how to get PDF of your submissions.
+* `stamps/`: list screenshots or PDFs assessing your successful exercises. Review [this file](https://github.com/Sapienza-University-Rome/ADM/blob/master/2024/Homework_1/How%20to%20generate%20the%20PDF%20file%20with%20the%20submissions.pdf) to understand how to get PDF of your submissions.
 
 It __must not__ contain:
 
