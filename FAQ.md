@@ -7,15 +7,15 @@ According to the organization of the course, we suggest asking questions on Slac
 ## Groups
 **[Q]** One of our groupmates is not showing up. What should I do?
 
-**[A]** Contact Daniel and Aris by email to report the problem. Remember to insert [ADM 2024] in the subject of the email. Otherwise, it could be ignored.
+**[A]** Contact Daniel, Loris and Aris by email to report the problem. Remember to insert [ADM 2024] in the subject of the email. Otherwise, it could be ignored.
 
 **[Q]** How long should I wait before alerting the ADM staff about a missing teammate?
 
-**[A]** Wait a couple of days. If you still can't contact them after this time, contact Daniel and Aris by email to report the problem. Remember to insert [ADM 2024] in the subject of the email. Otherwise, it could be ignored.
+**[A]** Wait a couple of days. If you still can't contact them after this time, contact Daniel, Loris and Aris by email to report the problem. Remember to insert [ADM 2024] in the subject of the email. Otherwise, it could be ignored.
 
 **[Q]** I'm the only one left in the group. None replies to my messages. What should I do?
 
-**[A]** Contact Daniel and Aris by email to report the problem. Remember to insert [ADM 2024] in the subject of the email. Otherwise, it could be ignored.
+**[A]** Contact Daniel, Loris and Aris by email to report the problem. Remember to insert [ADM 2024] in the subject of the email. Otherwise, it could be ignored.
 
 
 ## Submission
@@ -26,7 +26,7 @@ According to the organization of the course, we suggest asking questions on Slac
 
 **[Q]** I didn't submit one homework. Can I still do the exam?
 
-**[A]** Email Daniel and Aris, reporting the problem. Remember to insert [ADM 2024] in the subject of the email. Otherwise, it could be ignored.
+**[A]** Email Daniel, Loris and Aris, reporting the problem. Remember to insert [ADM 2024] in the subject of the email. Otherwise, it could be ignored.
 
 
 ## Peer evaluation
