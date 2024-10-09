@@ -21,12 +21,12 @@ The maximum score you can get is 5.
 ## Where?
 1. Each student must create a GitHub repository: follow these [steps](https://github.com/CriMenghini/ADM-HW4/blob/master/README.md) (replace ADM-HW4 with the name you give to the repository).
 
-2. Before the deadline, you can push in the repository whatever you want. Any push after the deadline will be taken into account for the penalization.
+2. Before the deadline, you can push whatever you want in the repository. Any push after the deadline will be taken into account for the penalization.
 
 __Note__ :
 
 * The state of the repository at the deadline time corresponds to your submission.
-* __[IMPORTANT]__ To submit the HW you must **compile this** [TBD]().
+* __[IMPORTANT]__ To submit the HW you must **compile this** [form](https://forms.gle/fW12vpnbGj2shzT28).
 
 ## What?
 
