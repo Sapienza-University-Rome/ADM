@@ -13,7 +13,7 @@ Homework 2 is due on [November 17th at 23:59:59](http://aris.me/index.php/data-m
 | 4 days |      -3      |
 | 5 days |      -4      |
 
-If you have particular problems respecting the deadline, please contact Aris directly (putting @Daniel in cc) and explain your situation clearly, mentioning your working group.
+If you have particular problems respecting the deadline, please contact Aris directly (putting @Daniel and @Loris in cc) and explain your situation clearly, mentioning your working group.
 
 
 The maximum score you can get is 5.
