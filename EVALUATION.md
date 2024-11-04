@@ -12,10 +12,9 @@ Specifically, you will be assigned a score between 1 and 5 for each aspect.
 The TAs will evaluate all the homework.
 
 ### Peer evaluation
-* For each homework, each student will review the assignment of 2 random groups (peer review) 
-* Therefore, each group will get around 6-8 reviews
+* For each homework, each student will review the assignment of 1 random groups (peer review) repository 
 
-The two pieces homework you should review will be communicated through email. Once you have completed your review, you will submit it through a form (submit each repository review in a different form) where you will be asked to tell us the group score for each section and explain your choices.
+The piece homework you should review will be communicated through email. Once you have completed your review, you will submit it through a form (submit each repository review in a different form) where you will be asked to tell us the group score for each section and explain your choices.
 
 Since how you do the Peer evaluation __will be part__ of your final grade, here are some examples of good reviews:
 
