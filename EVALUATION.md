@@ -16,7 +16,7 @@ The TAs will evaluate all the homework.
 
 The piece homework you should review will be communicated through email. Once you have completed your review, you will submit it through a form (submit each repository review in a different form) where you will be asked to tell us the group score for each section and explain your choices.
 
-Since how you do the Peer evaluation __will be part__ of your final grade, here are some examples of good reviews:
+Since the way how you do the Peer evaluation __will be part__ of your final grade, here are some examples of good reviews:
 
 __Positive__
 
