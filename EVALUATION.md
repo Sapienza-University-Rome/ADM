@@ -12,7 +12,7 @@ Specifically, you will be assigned a score between 1 and 5 for each aspect.
 The TAs will evaluate all the homework.
 
 ### Peer evaluation
-* For each homework, each student will review the assignment of 1 random groups (peer review) repository 
+* For each homework, each student will review the assignment of 1 random group (peer review) repository 
 
 The piece homework you should review will be communicated through email. Once you have completed your review, you will submit it through a form (submit each repository review in a different form) where you will be asked to tell us the group score for each section and explain your choices.
 
