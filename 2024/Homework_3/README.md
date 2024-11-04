@@ -404,7 +404,7 @@ You can find the optimal moves for the first case of the example in the followin
 </p>
 
 1. Write the pseudocode for an algorithm that solves this problem. 
-2. Provide a proof or reasoning to confirm that your algorithm is correct. 
+2. Prove that your algorithm is correct. 
 3. Compute the time complexity of your algorithm in Big O notation. Break down the steps involved in the algorithm, and explain which parts contribute most to the overall time complexity.
 4.  Ask an LLM tool (such as ChatGPT, Claude AI, Gemini, Perplexity, etc.) to evaluate the time complexity of your code using Big O notation. Is the assessment accurate? If it differs from your previous analysis, which would be correct? Please explain your reasoning.
 5.  Assume now that the robot can also move towards the left or downwards, and consider the greedy approach: from the current location go to the closest package. Notice that now we can always collect all packages. Prove that the greedy algorithm is optimal (i.e., it minimizes the total distance traveled), or provide a counterexample showing that it is not.
