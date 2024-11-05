@@ -20,7 +20,7 @@ we detail the procedure to follow for the data collection. We strongly suggest y
 
 ### 1.1. Get the list of Michelin restaurants
 
-You should begin by compiling a list of restaurants to include in your document corpus. Specifically, you will focus on web scraping the [Michelin Restaurants in Italy](https://guide.michelin.com/en/it/restaurants). Your task is to **collect the URL** associated with each restaurant in this list. The output of this step should be a `.txt` file where each line contains a single restaurant’s URL. By the end, you should have approximately 2,037 restaurants on your list.
+You should begin by compiling a list of restaurants to include in your document corpus. Specifically, you will focus on web scraping the [Michelin Restaurants in Italy](https://guide.michelin.com/en/it/restaurants). Your task is to **collect the URL** associated with each restaurant in this list. The output of this step should be a `.txt` file where each line contains a single restaurant’s URL. By the end, you should have approximately 2,000 restaurants on your list. The number changes daily, so some groups might have different number of restaurants.
 
 ### 1.2. Crawl Michelin restaurant pages
 
