@@ -3,7 +3,7 @@
 In this section, you find the instructions to submit your group assignment.
 
 ## When?
-Homework 4 is due on [December 1st at 23:59:59](http://aris.me/index.php/data-mining-ds-2024). Any homework submitted after the deadline will be subjected to a penalization with the following schema:
+Homework 4 is due on [December 8th at 23:59:59](http://aris.me/index.php/data-mining-ds-2024). Any homework submitted after the deadline will be subjected to a penalization with the following schema:
 
 |   Delay  | Penalisation |
 |:--------:|:------------:|
@@ -49,7 +49,7 @@ Each student will (randomly) need to fill out other 2 forms that will be publish
 1. [Individual Feedback - (TBD)](): a form to express how you worked with your group and who did what (applicable only to those students who worked in groups).
 2. [Peer Review  - (TBD)](): you will receive an email containing 1 piece of homework that you have to review. You will find the guidelines for the review in the form. Please submit one different form for each repository that has been reviewed. Peer review is intended to help you develop your critical skills towards other people's work and to compare your work with that of others. 
 
-You will have around __5 days (120 hours)__ to fill out the two forms after you have received the email with the corresponding repo to review. They are __mandatory__, i.e., we will not grade your homework if you don't fill out all the forms.
+You will have around __5 days (120 hours)__ to fill out the form after you have received the email with the corresponding repo to review. They are __mandatory__, i.e., we will not grade your homework if you don't fill out all the forms.
 
 
 
