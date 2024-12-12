@@ -15,6 +15,7 @@ Air travel connects cities across the United States, forming a dense and dynamic
 2. *My solution is not better than yours, and yours is not better than mine*. In any data analysis task, there **is no** unique way to answer. For this reason, it is crucial (**necessary and mandatory**) that you describe every decision you make and all your steps.
 3. Once solving an exercise, comments about the obtained results are **mandatory**. We are not always explicit about where to focus your comments, but we will always want brief sentences about your discoveries.
 4. We encourage using chatGPT (Claude AI, Gemini, Perplexity, or any other Large Language Models (LLM) chatbot tool) to help you solve your homework, but we expect you to learn how to use them responsibly. **Using such tools when not explicitly allowed will be considered plagiarism and strictly prohibited**.
+5. __IMPORTANT:__ You may use packages like <ins>NetworkX</ins> or similar tools solely for handling the data structure. However, when implementing the algorithm for your functionalities, you must write it __entirely from scratch__ without relying on pre-implemented functions from libraries that perform any steps on your behalf.
 
 Now that it is all well settled, let's get on with it!
 
