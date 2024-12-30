@@ -46,10 +46,10 @@ It __must not__ contain:
 
 Each student will (randomly) need to fill out other 2 forms that will be published after the deadline of the homework:
 
-1. [Individual Feedback - (Deadline January 7th at 23:59:59)](https://forms.gle/5Jiako9PPrcFdbEL9): a form to express how you worked with your group and who did what (applicable only to those students who worked in groups).
+1. [Individual Feedback - (Deadline January 4th at 23:59:59)](https://forms.gle/5Jiako9PPrcFdbEL9): a form to express how you worked with your group and who did what (applicable only to those students who worked in groups).
 2. [Peer Review  - (Deadline January 7th at 23:59:59)](https://forms.gle/bgQTqUtDpAf5ZKt59): you will receive an email containing 1 piece of homework that you have to review. You will find the guidelines for the review in the form. Please submit one different form for each repository that has been reviewed. Peer review is intended to help you develop your critical skills towards other people's work and to compare your work with that of others. 
 
-You will have around __5 working days__ to fill out the two forms after you have received the email with the corresponding repo to review. They are __mandatory__, i.e., we will not grade your homework if you don't fill out all the forms.
+You will have around __5 days__ to fill out the two forms (due to holidays you will have more time to compile Peer Review) after you have received the email with the corresponding repo to review. They are __mandatory__, i.e., we will not grade your homework if you don't fill out all the forms.
 
 
 
